@@ -20,4 +20,6 @@ __最后__，在程序中加入LanguaueManager.h和LanguaueManager.m文件。
 调用宏定义LOCALIZE(__key)就可以实现本地化语言</br>
 调用宏定义LANGUAGE_SET(type)就可以设置哪国语言
 
+
+———-
 ----
